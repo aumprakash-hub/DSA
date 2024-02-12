@@ -1,0 +1,14 @@
+/Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/bin/Debug/net8.0/DSAConsoleApplication
+/Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/bin/Debug/net8.0/DSAConsoleApplication.deps.json
+/Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/bin/Debug/net8.0/DSAConsoleApplication.runtimeconfig.json
+/Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/bin/Debug/net8.0/DSAConsoleApplication.dll
+/Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/bin/Debug/net8.0/DSAConsoleApplication.pdb
+/Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/obj/Debug/net8.0/DSAConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/obj/Debug/net8.0/DSAConsoleApplication.AssemblyInfoInputs.cache
+/Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/obj/Debug/net8.0/DSAConsoleApplication.AssemblyInfo.cs
+/Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/obj/Debug/net8.0/DSAConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/obj/Debug/net8.0/DSAConsoleApplication.dll
+/Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/obj/Debug/net8.0/refint/DSAConsoleApplication.dll
+/Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/obj/Debug/net8.0/DSAConsoleApplication.pdb
+/Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/obj/Debug/net8.0/DSAConsoleApplication.genruntimeconfig.cache
+/Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/obj/Debug/net8.0/ref/DSAConsoleApplication.dll
