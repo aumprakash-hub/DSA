@@ -13,12 +13,15 @@ public class PowerOfAnyNumber
         {
             return a;
         }
-
-        int answer = GetPowerOfAnyNumber(a, b/2);
-        if(b % 2 == 0){
+        // Recursive function
+        int answer = GetPowerOfAnyNumber(a, b / 2);
+        //If Even
+        if (b % 2 == 0)
+        {
             return answer * answer;
         }
-        else{
+        else
+        {
             return a * answer * answer;
         }
     }
