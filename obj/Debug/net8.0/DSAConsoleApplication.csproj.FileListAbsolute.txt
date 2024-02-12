@@ -12,3 +12,4 @@
 /Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/obj/Debug/net8.0/DSAConsoleApplication.pdb
 /Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/obj/Debug/net8.0/DSAConsoleApplication.genruntimeconfig.cache
 /Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/obj/Debug/net8.0/ref/DSAConsoleApplication.dll
+/Users/aumprakashdehury/Documents/Practice/DSA/DSAConsoleApplication/obj/Debug/net8.0/DSAConsoleApplication.sourcelink.json

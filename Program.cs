@@ -24,8 +24,14 @@ using Recursion;
 // Console.ReadLine();
 // *********************************
 // Say digit
-System.Console.WriteLine("Enter value to get say : ");
-int input = Convert.ToInt32(Console.ReadLine()?.ToString());
+// System.Console.WriteLine("Enter value to get say : ");
+// int input = Convert.ToInt32(Console.ReadLine()?.ToString());
 
-SayDigit.Say_Digit(input);
+// SayDigit.Say_Digit(input);
+// Console.ReadLine();
+// *********************************
+// Sum of array
+int[] arr = { 1, 2, 3, 5, 7 };
+int result = GetSumOfArray.SumOfArray(arr);
+System.Console.WriteLine($"Sum of array result is {result}");
 Console.ReadLine();
