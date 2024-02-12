@@ -29,9 +29,21 @@ using Recursion;
 
 // SayDigit.Say_Digit(input);
 // Console.ReadLine();
+// // *********************************
+// // Sum of array
+// int[] arr = { 1, 2, 3, 5, 7 };
+// int result = GetSumOfArray.SumOfArray(arr);
+// System.Console.WriteLine($"Sum of array result is {result}");
+// Console.ReadLine();
+
 // *********************************
-// Sum of array
-int[] arr = { 1, 2, 3, 5, 7 };
-int result = GetSumOfArray.SumOfArray(arr);
-System.Console.WriteLine($"Sum of array result is {result}");
+// Power of any number
+System.Console.WriteLine("Enter value of a : ");
+int a = Convert.ToInt32(Console.ReadLine()?.ToString());
+
+System.Console.WriteLine("Enter value of b : ");
+int b = Convert.ToInt32(Console.ReadLine()?.ToString());
+
+int result = PowerOfAnyNumber.GetPowerOfAnyNumber(a, b);
+System.Console.WriteLine($"Power of {a} to the power of {b} is {result}");
 Console.ReadLine();
